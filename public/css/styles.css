@@ -132,9 +132,12 @@ a{
     margin-bottom: 10px;
     border: 1px solid #ebebeb;
     border-radius: 20px;
-    box-shadow: 0px 0px 10px rgb(100, 100, 100);
+    transition: all 0.5s;
 }
 
+.main-principal article:hover{
+    box-shadow: 0px 0px 10px rgb(100, 100, 100);
+}
 
 .main-principal article img{
     width: 100%;
