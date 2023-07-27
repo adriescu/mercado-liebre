@@ -1,5 +1,13 @@
+main{
+    min-height: 50vh;
+}
+
 main section h2{
     text-align: center;
+}
+
+main section{
+    margin-top: 3rem;
 }
 
 #form-login{
